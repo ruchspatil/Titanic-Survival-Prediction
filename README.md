@@ -1,4 +1,4 @@
-# TITANIC SURVIVAL PREDICTION PROJECT!
+# TITANIC SURVIVAL PREDICTION
 
 ### Titanic Survival Prediction using ML and Python 📊
 
@@ -6,9 +6,9 @@
 
 📌 The competition task was to use machine learning to create a model that predicts “What types of people were more likely to survive?” used passenger data (i.e. name, age, sex, socio-economic class, etc.).
 
-📌 Workflow stages:
+### Workflow stages:
 
-The competition solution workflow goes through seven stages,
+📌 The competition solution workflow goes through seven stages,
 1. Question or problem definition
 2. Wrangle, prepare, cleanse the data
 3. Exploratory Data Analysis
